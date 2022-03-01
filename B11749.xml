@@ -1,0 +1,583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Raglands Niobe: or, Elizas elegie Addressed to the unexpiring memory of the most noble Lady, Elizabeth Herbert, wife to the truly honourable, Edward Somerset Lord Herbert, &amp;c. By Ri. Brathwait, Esq.</title>
+            <author>Brathwaite, Richard, 1588?-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11749</idno>
+            <idno type="STC">STC 3581.7</idno>
+            <idno type="STC">ESTC S114435</idno>
+            <idno type="EEBO-CITATION">99849660</idno>
+            <idno type="PROQUEST">99849660</idno>
+            <idno type="VID">178198</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B11749)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178198)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1477:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Raglands Niobe: or, Elizas elegie Addressed to the unexpiring memory of the most noble Lady, Elizabeth Herbert, wife to the truly honourable, Edward Somerset Lord Herbert, &amp;c. By Ri. Brathwait, Esq.</title>
+                  <author>Brathwaite, Richard, 1588?-1673.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by F. K[ingston] for Robert Bostocke, at the Kings head in Saint Paul's Church-yard,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1635.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Place of publication and printer's name from STC.</note>
+                  <note>The first and last leaves are blank.</note>
+                  <note>Identifed as STC 3562 on UMI reel 1447.</note>
+                  <note>Signatures: A-B.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Worcester, Elizabeth Somerset, --  Lady, d. 1635.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178198:1"/>
+            <pb facs="tcp:178198:1" rendition="simple:additions"/>
+            <p> RAGLANDS NIOBE: OR, ELIZAS ELEGIE: <hi>Addreſſed to the unexpiring</hi> memory of the moſt noble Lady, ELIZABETH HERBERT, <hi>wife to the truly honourable,</hi> EDWARD SOMER<g ref="char:EOLhyphen"/>SET Lord HER<g ref="char:EOLhyphen"/>BERT, &amp;c.</p>
+            <p>By RI. BRATHWAIT, <hi>Eſq.</hi>
+            </p>
+            <q>
+               <l>—Surrepta, refulſit in orbe</l>
+               <l>Clarior—</l>
+            </q>
+            <p>Imprinted by <hi>F. K.</hi> for <hi>Robert Bostocke,</hi> at the Kings head in Saint <hi>Paul's</hi> Church<g ref="char:EOLhyphen"/>yard. 1635.</p>
+            <pb facs="tcp:178198:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:178198:2"/>
+            <head>TO THE HONORABLE, EDWARD SOMERSET, Lord HERBERT, <hi>my most noble</hi> and accompliſh'd Lord;</head>
+            <head type="sub">Treaſures of Comforts, after theſe <hi>Tributes of teares.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">P</seg>Eruſe your owne, my <hi>Lord,</hi> and be content;</l>
+               <l>Co<g ref="char:cmbAbbrStroke">̄</g>cluding hence, on earth nought permanent:</l>
+               <l>But if in this <hi>inferiour Globe</hi> of ours</l>
+               <l>Ought conſtant be, it is my Zeale to yours.</l>
+            </lg>
+            <closer>
+               <signed>NIOBAEUS.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:178198:3"/>
+            <head>ELISABETH HERBERT.</head>
+            <head type="sub">
+               <hi>Anag.</hi> Heere a bleſt birth.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">H</seg>Eare, <hi>heere bleſt birth,</hi> with thy divineſt eares</l>
+               <l>Thy true-devoted Servants funeral teares;</l>
+               <l>That 't may appeare; our Muſe hath done thee right</l>
+               <l>In throbbing to this Age thy laſt good night.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:178198:3"/>
+            <head>RAGLANDS <hi>NIOBE: Or,</hi> ELIZA'S Elegie.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">S</seg>Til-ſilent Night unveile thy ſable eies,</l>
+               <l>And eye y<hi rend="sup">e</hi> loſſe of this unequall'd prize</l>
+               <l>Our Family bemones: reſolve to teares,</l>
+               <l>And ſympathize with ev'ry one that beares</l>
+               <l>A ſhare in theſe ſad rites. When Starres doe fall,</l>
+               <l>Thou mak'ſt that Aſtrolabe thy Funerall:</l>
+               <l>Streight thou immasks thy face, contracts thy blood,</l>
+               <l>And ſhrowds thy virgin beauty in a cloud.</l>
+            </lg>
+            <lg>
+               <l>Heare me, <hi>Latona!</hi> of all ſtarres that were</l>
+               <l>Or ever ſhone in this inferiour Spheere,</l>
+               <pb facs="tcp:178198:4"/>
+               <l> The truly pureſt and refinedſt One</l>
+               <l>Is from our Orbe, to gaine more glory, gone.</l>
+               <l>Why ſhould not we then imitatours bee</l>
+               <l>Of that compaſſion we conceive in thee?</l>
+               <l>Admit theſe <hi>Halcyon</hi> daies give Her encreaſe</l>
+               <l>Of honour, glory, beauty, plenty, peace,</l>
+               <l>With that bleſt confluence of heav'nly ſtore,</l>
+               <l>Which crownes pure ſoules when they arrive a ſhore.</l>
+               <l>Wee that are Mortals ever have more ſenſe</l>
+               <l>Of our owne want, than others affluence.</l>
+               <l>Tell me thou State-ſurrounded STRAND, canſt finde</l>
+               <l>Through all thy <hi>Prospects</hi> a ſelecter minde</l>
+               <l>Cloath'd in a choicer dreſſe! Pray, looke about,</l>
+               <l>Thou canſt not chuſe but ſee ſome face peepe out</l>
+               <pb facs="tcp:178198:4"/>
+               <l> T'attract the forc'd Spectator; but that skin</l>
+               <l>Is it ſo ſleeke as't ha's no ſtaines within?</l>
+               <l>Is it a native tincture? do'es it wooe</l>
+               <l>The gazer without art? or if it doe,</l>
+               <l>Is it accompliſh'd with ſome better part</l>
+               <l>To polliſh nature with diviner art?</l>
+               <l>Ha's it adorning graces to make good</l>
+               <l>The ſplendor of her beauty or her blood?</l>
+               <l>Can it converſe with <hi>faſhion,</hi> and appeare</l>
+               <l>Diſcreet in her election what to weare?</l>
+               <l>Can it ſend out her cies, and not be tane,</l>
+               <l>Or to take Others make it not her aime?</l>
+               <l>Can it diſcourſe without affected ſtate,</l>
+               <l>Or hearken <hi>Lightneſſe</hi> with a bluſhing hate?</l>
+               <pb facs="tcp:178198:5"/>
+               <l> Can it diſtinguiſh times and perſons too?</l>
+               <l>Reſerve a ſtate without a ſeeming ſhow?</l>
+               <l>Can it purſue the Object it affects</l>
+               <l>With more divine than ſenſuall reſpects?</l>
+               <l>Can it eſteeme of beauty as it is?</l>
+               <l>Imparadize her thoughts in future bliſſe?</l>
+            </lg>
+            <lg>
+               <l>Canſt finde me this rare <hi>Phoenix?</hi> I much doubt,</l>
+               <l>Thou looſeſt time in ſeeking of her out.</l>
+               <l>Two <hi>Phoenixes</hi> at once were never ſeene,</l>
+               <l>It is enough, that ſuch an One hath beene.</l>
+               <l>Thou haſt indeed, a choice varietye</l>
+               <l>Of mortall beauties to ſurprize the eye</l>
+               <l>Of a <hi>Zenocrates;</hi> but ſo divine</l>
+               <l>Would not ſuite well with faſhions of the time.</l>
+               <pb facs="tcp:178198:5"/>
+               <l> Complete and complementall are two things,</l>
+               <l>Which different conſtructions ever brings:</l>
+               <l>For what's an outward dreſſe, or ſeeming faire,</l>
+               <l>A vading breath reſolving into aire?</l>
+               <l>What's permanent is good, nor can it be</l>
+               <l>So ſtyl'd, that's ſhort of this eternitie.</l>
+            </lg>
+            <lg>
+               <l>But thou hadſt One in that <hi>Elyſian</hi> grove!</l>
+               <l>A precious Sprigge of vertue, beauty, love;</l>
+               <l>Yea, ſuch a Seat, as no diviner grace</l>
+               <l>But in her Saintly boſome had a place.</l>
+               <l>One richly ſtor'd with all the gifts of nature,</l>
+               <l>Of gracefull preſence and attractive feature;</l>
+               <l>And what was richer farre than all the reſt,</l>
+               <l>An heav'nly fancy in an holy breſt.</l>
+               <pb facs="tcp:178198:6"/>
+               <l> For ſhew me One within this Orbe of ours,</l>
+               <l>That was ſo young in yeares and old in houres.</l>
+               <l>So ſweetly humble and compaſſionate,</l>
+               <l>So well compos'd ith' poſture of her ſtate;</l>
+               <l>So loyall in her love, ſo firme to thoſe</l>
+               <l>Who in her <hi>Honour</hi> did their hopes repoſe.</l>
+            </lg>
+            <lg>
+               <l>And now, me thinkes, in this high overflow</l>
+               <l>Of boundleſſe ſorrow, I am fixt on you,</l>
+               <l>You ſad <hi>Attendants,</hi> whom ſhe us'd to cheere</l>
+               <l>With pleaſing language, while ſhee breathed heere.</l>
+               <l>The loſſe you feele is poiz'd above compare,</l>
+               <l>Yet, as I live, I love to beare a ſhare</l>
+               <l>In ſuch depreſſive burdens: for theſe bee,</l>
+               <l>As I am yours, reflecting upon mee.</l>
+               <pb facs="tcp:178198:6"/>
+               <l> Let's then a mutuall ſorrow entertaine,</l>
+               <l>And moiſten this dry earth that wanteth raine,</l>
+               <l>With our diſtreaming teares: for Heav'ns have kept,</l>
+               <l>Thus long their Conduits ſhut, and have not wept,</l>
+               <l>That with profuſer treaſures they might ſtore</l>
+               <l>Our native Mother, and wet eies deplore</l>
+               <l>This ſad Occaſion: Sad, indeed, to us</l>
+               <l>Who eye the Count'nance of that heavie houſe,</l>
+               <l>Where ev'ry Habit, Object as we paſſe,</l>
+               <l>Proclaime thus much, time is not as it was.</l>
+               <l>While ev'ry ſilent accent ſeemes to breath</l>
+               <l>The laſt farewell of our <hi>Elizabeth.</hi>
+               </l>
+               <l>Divine Elyſian Lady! O that eies</l>
+               <l>Made <hi>Niobe's,</hi> could reſcue ſuch a prize!</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178198:7"/>
+               <l>There is no mortall could ſo highly erre</l>
+               <l>As did our laſt yeares weake Aſtronomer,</l>
+               <l>Who found no Eclypſe in our Zodiake heere,</l>
+               <l>Nor any darkneſſe in this Hemiſpheere.</l>
+               <l>I have found One, (I'm ſure) and more than I,</l>
+               <l>With a great inundation in each eye;</l>
+               <l>So as, that part which we call Chriſtalline</l>
+               <l>Is now diſſolved to a Sea of brine.</l>
+            </lg>
+            <lg>
+               <l>Teares be thoſe Treaſures which wee mortals uſe</l>
+               <l>To pay to ſuch we lov'd: nor can wee chuſe</l>
+               <l>To doe leſſe to this Shrine, the ſcattred duſt</l>
+               <l>Of that <hi>diviner part,</hi> which 'mongſt the juſt</l>
+               <l>Holds her eternall Annall: tell me where</l>
+               <l>I may my Object take without a teare.</l>
+               <pb facs="tcp:178198:7"/>
+               <l> No where, O no where! though all humane ſtate</l>
+               <l>Be by injunction ſubject unto fate,</l>
+               <l>Which ſolely makes diſtinction 'twixt the good,</l>
+               <l>And thoſe who with foule actions ſtaine pure blood:</l>
+               <l>For theſe make State a Subterfuge to guilt,</l>
+               <l>Ttriumphing in thoſe conduits they have ſpilt</l>
+               <l>Through their profuſer bounty: whereas thoſe</l>
+               <l>Who are to none but vice profeſſed foes,</l>
+               <l>Live in their diſſolution, and receive</l>
+               <l>A laſting odour from a dying grave.</l>
+               <l>Yet when ſuch glorious Lights their ſplendor looſe,</l>
+               <l>Not to themſelves but to our earthly houſe,</l>
+               <l>As thoſe faire ſtructures have their glory loſt,</l>
+               <l>Which by their breathing beauty ſhined moſt,</l>
+               <pb facs="tcp:178198:8"/>
+               <l> Who can diſpenſe with griefe, ſurceaſe to mone,</l>
+               <l>Unleſſe hee bee a Stoicke or a ſtone?</l>
+            </lg>
+            <lg>
+               <l>I muſt confeſſe, the <hi>Thracians</hi> did expreſſe</l>
+               <l>An Embleme of our humane wretchedneſſe;</l>
+               <l>Who in a various ſtraine of mone and mirth,</l>
+               <l>Wept whe<g ref="char:cmbAbbrStroke">̄</g> men came, joy'd when they went fro<g ref="char:cmbAbbrStroke">̄</g> earth.</l>
+               <l>Which temper, ſure, in earthly walls inclos'd,</l>
+               <l>Seemes in my judgement pretiouſly compos'd,</l>
+               <l>And ſuch as wee ſhould imitate: yet when</l>
+               <l>Like men, we thinke how we convers'd with them</l>
+               <l>Who now are cloſed from our longing eyes,</l>
+               <l>How much we their ſociety did prize,</l>
+               <l>What choice delight we tooke in their reſort,</l>
+               <l>How much their fame improved our report,</l>
+               <pb facs="tcp:178198:8"/>
+               <l> How ſhort quicke-vading minutes dropt away,</l>
+               <l>How th' cloſing Ev'ning crown'd the cheerefull day,</l>
+               <l>What ſweet Communion of Comforts too</l>
+               <l>Which friend on friend did mutually beſtow,</l>
+               <l>With what a rare Confection of reliefe</l>
+               <l>In the communicating of their griefe,</l>
+               <l>One drained from another; and <hi>that one</hi>
+               </l>
+               <l>Divorc'd now from his ſight, diſlodg'd and gone;</l>
+               <l>Hee farre tranſcends the mould of humane ſtate,</l>
+               <l>Who ſcornes in this to be effeminate.</l>
+            </lg>
+            <lg>
+               <l>Deaths <hi>Lachrymae,</hi> indeed, is ſuch a ſong,</l>
+               <l>So ſhort's the Scene of griefe, it laſts not long:</l>
+               <l>Yet where impreſſive vertues did appeare,</l>
+               <l>They have an <hi>Anniverſall</hi> ev'ry yeare.</l>
+               <pb facs="tcp:178198:9"/>
+               <l> And ſuch were thine, <hi>blest Saint,</hi> whoſe light ſhall give</l>
+               <l>Direction unto others how to live.</l>
+            </lg>
+            <lg>
+               <l>I'ſt irreligious then to ſhed a teare</l>
+               <l>For one, where ſuch choice vertues lodged were?</l>
+               <l>A Gardiner would diſcontented ſeeme</l>
+               <l>If that prime flower he held in moſt eſteeme,</l>
+               <l>Should be mel-dew'd or cropt before the time;</l>
+               <l>Can we doe leſſe for her, who in her prime</l>
+               <l>Was cropt by th' hand of D<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eh? much wonder I</l>
+               <l>At popular amazement, who deſcry</l>
+               <l>A ſtrange diſtraction in perplexed eyes,</l>
+               <l>When they contemplate vulgar rarities:</l>
+               <l>And ſuch as from meere nat'rall cauſes ſpring,</l>
+               <l>As when they ſee the Sun-beames wraſtling</l>
+               <pb facs="tcp:178198:9"/>
+               <l> With interpoſed ſhades: this eclyps'd light</l>
+               <l>Darts an aſtoniſhment unto their ſight.</l>
+               <l>Good God (thus will they ſay) that which did ſhow</l>
+               <l>Such beauteous rayes, how is it darkned now?</l>
+               <l>Where is that beaming glory which reviv'd</l>
+               <l>Th' inferiour Orbe? how is it now depriv'd</l>
+               <l>Of his late full-ſpread vigour? how 'tis ſpent</l>
+               <l>Which gave to all things life and nouriſhment?</l>
+            </lg>
+            <lg>
+               <l>Draw nearer wondring Mortals, and ſee heere</l>
+               <l>A glorious Light reft from our Hemiſpheere!</l>
+               <l>One, upon whoſe cleare brow no Cloud e're ſat,</l>
+               <l>Nor e're ey'd Object that ſhe aimed at</l>
+               <l>But what ſhe might affect: nor perſonate</l>
+               <l>An unbeſeeming introduced ſtate:</l>
+               <pb facs="tcp:178198:10"/>
+               <l> Nor gloze in painted goodneſſe: nor expreſſe</l>
+               <l>More than her Soule did inwardly profeſſe:</l>
+               <l>Nor feed her fancy with conceipts of time,</l>
+               <l>But clos'd her Lifes Act with a Scene divine.</l>
+               <l>And this ſame taking beauty now is gone,</l>
+               <l>Reft from our ſight! which while we thinke upon,</l>
+               <l>'Tis not ſufficient to bemoane her death,</l>
+               <l>But to obſerve how ſweetly vertues breath</l>
+               <l>In her expired Corpſe; and that her Fate,</l>
+               <l>Bleſt Fate! h'as left what wee're to imitate.</l>
+               <l>"Death from oblivion will exempt no <hi>blood,</hi>
+               </l>
+               <l>"Unleſſe that Highneſſe be recorded <hi>good.</hi>
+               </l>
+               <l>For Monumentall ſtructures may be ſaid</l>
+               <l>E<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ected more for th' living than the dead.</l>
+               <pb facs="tcp:178198:10"/>
+               <l> Theſe have their date and period, and muſt turne</l>
+               <l>To duſt, like mouldred aſhes in an Urne.</l>
+               <l>Where vertue ſcornes ſuch confines, being knowne</l>
+               <l>To leane on no ſupportance, but her owne.</l>
+            </lg>
+            <lg>
+               <l>Nor doe I muſe why thou ſhould'ſt vertuous be,</l>
+               <l>Being deriv'd from ſuch a Familie,</l>
+               <l>Whoſe Actions ſtreame in goodneſſe; they who gave</l>
+               <l>Firſt life to thee, no leſſe Memorialls have</l>
+               <l>In Times deſerving Annals: DORMERS name</l>
+               <l>Retein's ith' accent a ſufficient fame</l>
+               <l>To ſecond our aſſertion: and to ſhow</l>
+               <l>Thy Mothers houſe was correſponding too</l>
+               <l>In lineall acts of goodneſſe, and what might</l>
+               <l>Give to a noble line a living light,</l>
+               <pb facs="tcp:178198:11"/>
+               <l> I'le onely name Him, whome ne're age could tax,</l>
+               <l>The all-approved-loved MVLLINAX.</l>
+               <l>Deare to his owne, to ſtrangers debonaire,</l>
+               <l>Deare to the Muſes, who Joves darlings are,</l>
+               <l>Firme where hee doth profeſſe, entire to ſuch</l>
+               <l>Who know, but make no boaſt of knowing much:</l>
+               <l>And to ſumme all in one, ſuch a right Lord</l>
+               <l>Hee ſcornes nought more then ſleighting of his word.</l>
+            </lg>
+            <lg>
+               <l>Deriv'd from theſe; <hi>that</hi> runs through all thy vaines,</l>
+               <l>Which by deſcent peculiar title claimes</l>
+               <l>In thine now after thee: to whom I meane</l>
+               <l>In this expiring Ode t'addreſſe my Scene.</l>
+            </lg>
+            <lg>
+               <l>Bleſt Babes! Sweet Graces! for you are but three;</l>
+               <l>And may you bee, as your Houſe ſhowes to mee,</l>
+               <pb facs="tcp:178198:11"/>
+               <l> Still <hi>gracious;</hi> my ſute ſhall be but one,</l>
+               <l>That you may repreſent Her that is gone</l>
+               <l>In your ſurviving vertues. Firſt, to you</l>
+               <l>
+                  <hi>Right Noble Sir,</hi> let 't be your taske to ſhew</l>
+               <l>His name, and nature <note n="*" place="margin">
+                     <hi>From</hi> HENRY <hi>now Earle of</hi> WOR<g ref="char:EOLhyphen"/>STER, <hi>his Grandfa<g ref="char:EOLhyphen"/>ther.</hi>
+                  </note> whence you tooke your name,</l>
+               <l>Beleeve your Servant, 'twil improve your fame,</l>
+               <l>And make you live, belov'd; I doe not care</l>
+               <l>For guilded honour, 'tis a vading ayre</l>
+               <l>That's ſoone diſperſt; a painted Trophie torne</l>
+               <l>From tainted Heraldry, diſplai'd in ſcorne.</l>
+               <l>"Goodnes cloathes greatnes with a gracefull dreſſe,</l>
+               <l>"And ſhines moſt glorious when it ſhews nought leſſe.</l>
+               <l>So pleaſing's humble Honour to each eye</l>
+               <l>It wins affection in the Stander by;</l>
+               <pb facs="tcp:178198:12"/>
+               <l> Let but your Infant Honour thinke of this,</l>
+               <l>
+                  <hi>Summer</hi> ſhall <hi>riſe</hi> in love and <hi>ſet</hi> in bliſſe.</l>
+            </lg>
+            <lg>
+               <l>Now, to you <hi>Noble Ladies,</hi> who may ſee</l>
+               <l>Store of examples to endoctrine yee,</l>
+               <l>Some to deprave; but in your tender breſt</l>
+               <l>Such num'rous ſeeds of native goodneſſe reſt,</l>
+               <l>Which freely ripened as they are begun,</l>
+               <l>May in due time to their perfection come.</l>
+               <l>With an exacter Patterne none can ſtore you,</l>
+               <l>Then Her example who is gone before you:</l>
+               <l>Let her <hi>Life</hi> be the <hi>Line</hi> to regulate</l>
+               <l>Your actions by; the poſture of her ſtate</l>
+               <l>Your conſtant'ſt Modell; her ſweet moderation,</l>
+               <l>In her diſcourſe, employment, recreation,</l>
+               <pb facs="tcp:178198:12"/>
+               <l> Your cleareſt mirror: for yee cannot erre</l>
+               <l>In any theſe by imitating her.</l>
+               <l>Confirme your Mothers Anagram on Earth,</l>
+               <l>With this Emphatick Mott: HEERE A BLEST BIRTH.</l>
+            </lg>
+            <lg>
+               <l>Theſe Obſervations, I may ſafely vow,</l>
+               <l>Will multiply more honours upon you,</l>
+               <l>More reall honours, than theſe who incline</l>
+               <l>To the phantaſtick faſhions of our time:</l>
+               <l>For theſe are but admired for one day,</l>
+               <l>And ſtraight their melting varniſh drops away:</l>
+               <l>Whereas your grounded Colours dyde in graine</l>
+               <l>Shall repreſent a State admits no ſtaine.</l>
+               <l>Reteining theſe, <hi>Sweet Ladies,</hi> you'l become</l>
+               <l>Exemplar Paragons in <hi>Albion.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>NOVV I approach, my deare ſad <hi>Lord</hi> to you,</l>
+               <l>Who having taken your late laſt adue</l>
+               <pb facs="tcp:178198:13"/>
+               <l> Of your unequall'd Spouſe, are full of griefe,</l>
+               <l>To which divineſt comforts breath reliefe.</l>
+               <l>Excuſe me, <hi>Honour'd Lord,</hi> that you are plac't</l>
+               <l>In this ſad Scene of ſerious Sorrow, laſt;</l>
+               <l>'Twas my deſire, that you ſhould firſt digeſt</l>
+               <l>Theſe grounded griefes wherewith you are depreſt</l>
+               <l>Before revivall of them; 'las you know</l>
+               <l>I owe as much to you as I doe owe</l>
+               <l>To the whole world (without private aime</l>
+               <l>To me or mine) Save to my ſoveraigne.</l>
+               <l>Yea, ſhould you flow in teares, as you doe flow,</l>
+               <l>You ſhould not finde your poore MVSAEVS ſlow</l>
+               <l>In the like tribute: bee it only yours</l>
+               <l>To yeeld your will unto th' Superiour powers.</l>
+               <pb facs="tcp:178198:13"/>
+               <l> Shee's reft from you ('tis true) but ſhee is given</l>
+               <l>By your diviſion to be ſpous'd in heav'n.</l>
+               <l>Nor had ſhe left her Mate, her choice deare Love,</l>
+               <l>But onely for His love ſhee had above:</l>
+               <l>In whoſe tranſlation there appeared heere</l>
+               <l>A civill Combat 'twixt two Months i'th yeere,</l>
+               <l>So as, none could definitively ſay</l>
+               <l>Shee dide the firſt of <hi>June</hi> or laſt of <hi>May.</hi>
+               </l>
+               <l>Both wraſtled like two Champions for the wall,</l>
+               <l>Which might give convoy to her Nuptiall.</l>
+               <l>A ſolemne ſacred Nuptiall! Where Heav'ns King</l>
+               <l>Becomes the Bridegroome: and where Angels ſing</l>
+               <l>Their Epithalamies; and Saintly Quires</l>
+               <l>With choiceſt ayres accompliſh their deſires.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178198:14"/>
+               <l>"Cloze then with your deare ſervant; Heav'ns appeas'd,</l>
+               <l>You from your teares, ſhe from her griefes releas'd:</l>
+               <l>Which done, your late ELIZA's <hi>Elegie</hi>
+               </l>
+               <l>Will wipe all teares from RAGLANDS <hi>Niobe.</hi>
+               </l>
+            </lg>
+            <closer>Niobem <hi>mutamur in ipſam.</hi>
+            </closer>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:178198:14"/>
+            <head>Epitaph.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">P</seg>Ure Shrinel to w<hi rend="sup">c</hi> that treaſure is confin'd, <note place="margin">
+                     <hi>Obiit lun.</hi> 1. <hi>Anno Dom.</hi> 1635.</note>
+               </l>
+               <l>Till it be re-united to her mind,</l>
+               <l>Where ev'ry graine roſe to ſo high a rate,</l>
+               <l>It paſt th' <hi>inferiour Orbe</hi> to eſtimate.</l>
+               <l>Nor had we loſt the richeſſe of this Mine,</l>
+               <l>Had it not been too precious for the time.</l>
+               <l>Nor by injoyment of it ſo long bleſt,</l>
+               <l>But for <hi>His Sake</hi> by whom it was poſſeſt.</l>
+               <l>Who, as his vertues ſtyle him man of men,</l>
+               <l>Onely deſerv'd to weare ſo rich a gem:</l>
+               <l>For whoſe content Heav'ns might have pleas'd to ſpare</l>
+               <l>And crown'd the joyes of ſuch a peereleſſe Paire.</l>
+            </lg>
+            <lg>
+               <l>But Stars ſhine cleareſt in their proper Spheere,</l>
+               <l>So ſhee more glorious than ſhee ſhowed here.</l>
+               <l>ô were Earth numerous in ſuch a birth,</l>
+               <l>It might be juſtly ſtiled Heav'n on Earth!</l>
+            </lg>
+            <epigraph>
+               <q>GENTIS HONOR, VIRTVTIS AMOR, SPECTABILIS UXOR, CONDITA SVNT TVMVLO, NON MORITVRA, TVO</q>
+            </epigraph>
+            <trailer>Finis.</trailer>
+         </div>
+         <div type="postscript">
+            <lg>
+               <pb facs="tcp:178198:15" rendition="simple:additions"/>
+               <l>
+                  <seg rend="decorInit">L</seg>Et 't not diſtaſte my Lord, that I have heere</l>
+               <l>Annex'd th' Elegiack raptures of my Deare:</l>
+               <l>'Tis ſaid that <hi>Polo</hi> the Tragedlan.</l>
+               <l>When hee on Stage to force ſome paſſion came,</l>
+               <l>Had his Sonnes aſhes in an Urne enſhrin'd</l>
+               <l>To worke more deepe impreſſions in his mind.</l>
+               <l>The Emblem's good: this Fun'rall pile of ours</l>
+               <l>Strucke paſſion in each line addreſs'd to yours.</l>
+            </lg>
+            <pb facs="tcp:178198:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
